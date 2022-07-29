@@ -1,1 +1,1 @@
-# UIDeveloperTest_PradeepYellapu_Kommunicate
+# UI Developer Test
