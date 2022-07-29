@@ -9,4 +9,4 @@ I've seen how a startup works, Learnt from them on how to and how not to run a t
 Learnt how to manage a team and get things done. That is the reason I feel this is an apt role for me. <br>
 
 ## Screenshot of Assignment 1
-<img src="" alt="screenshot1"/>
+<img src="assignment 1/assignment1_kommunicate.jpeg" alt="screenshot1"/>
