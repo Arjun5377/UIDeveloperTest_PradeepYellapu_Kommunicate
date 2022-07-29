@@ -1,0 +1,7 @@
+Project name : Collab
+Headline : Now get the benefits of an office without the clutter. Create a space for your team, connect with colleagues, and get things done. 
+Tools Used : Figma, Notion, Adobe XD
+Objective : Collab is an online office space that replaces the need for onsite workplaces. You can create a team, hold board meetings, connect on calls, and add events or assignments. All of the things you do in an office, except it's done online. Followed the Design Thinking Process, Analyzed about the target audience creating user personas, created wireframes, and then designed high fidelity designs.
+
+You can find more about it in the below case study link:
+https://www.behance.net/gallery/141522759/Collab-App
